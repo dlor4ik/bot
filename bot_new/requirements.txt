@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+gspread~=6.2.0
+python-dotenv==1.0.0
+oauth2client==4.1.3
+python-decouple~=3.8
+google~=3.0.0
